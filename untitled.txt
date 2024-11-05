@@ -1,0 +1,67 @@
+Analysis 1
+Research Question: Is there a correlation between age and the frequency of feeling lonely among Canadians?
+
+Variables:
+
+Independent Variable: Age of participants (numeric).
+Dependent Variable: Frequency of feeling lonely over the past week (numeric).
+Reason for Choosing Variables: Both variables are quantitative, enabling precise correlation analysis rather than categorical descriptors like "often" or "rare."
+
+Analysis Method: Hypothesis testing with the following setup:
+
+Null Hypothesis (H₀): There is no correlation between age and the frequency of feeling lonely.
+Alternative Hypothesis (H₁): There is a correlation between age and the frequency of feeling lonely.
+The analysis will be conducted at a 0.05 significance level.
+Hypothesis: We hypothesize a positive correlation; as age increases, the frequency of loneliness also increases.
+
+
+
+
+Analysis 2: Age and Perceptions of Financial Stability
+Research Question: Do perceptions of financial stability vary significantly by age group among Canadian adults?
+
+Variables:
+
+Independent Variable: Age group (e.g., young adults (<30), adults (30–60), older adults (>60)).
+Dependent Variable: FINANCE_financial_stability (categorical variable assessing financial stability perceptions, e.g., "stable," "somewhat stable," "unstable").
+Reason for Choosing Variables: Financial stability is a key factor in quality of life and is likely to vary across different life stages, making age a relevant factor in perceptions of financial security.
+
+Analysis Method:
+
+Chi-Squared Test of Independence:
+Null Hypothesis (H₀): There is no association between age group and perceptions of financial stability.
+Alternative Hypothesis (H₁): There is an association between age group and perceptions of financial stability.
+A chi-squared test will be used to determine if financial stability perceptions are associated with age group.
+Hypothesis: We hypothesize that younger adults may feel less financially stable due to early career stages, while older adults may perceive greater stability due to accumulated assets or stable income sources.
+
+Analysis 2: Age and Perceptions of Financial Stability
+Research Question: Do perceptions of financial stability vary significantly by age group among Canadian adults?
+
+Variables:
+
+Independent Variable: Age group (e.g., young adults (<30), adults (30–60), older adults (>60)).
+Dependent Variable: FINANCE_financial_stability (categorical variable assessing financial stability perceptions, e.g., "stable," "somewhat stable," "unstable").
+Reason for Choosing Variables: Financial stability is a key factor in quality of life and is likely to vary across different life stages, making age a relevant factor in perceptions of financial security.
+
+Analysis Method:
+
+Chi-Squared Test of Independence:
+Null Hypothesis (H₀): There is no association between age group and perceptions of financial stability.
+Alternative Hypothesis (H₁): There is an association between age group and perceptions of financial stability.
+A chi-squared test will be used to determine if financial stability perceptions are associated with age group.
+Hypothesis: We hypothesize that younger adults may feel less financially stable due to early career stages, while older adults may perceive greater stability due to accumulated assets or stable income sources.
+
+
+
+Analysis 3: Relationship Between Physical Activity Frequency and Life Satisfaction
+
+Research Question: Does engaging in physical activities or sports regularly correlate with higher life satisfaction levels in Canada?
+
+Variables:
+Independent Variable: Frequency of physical activity or sports participation per week (e.g., measured as number of days per week engaged in exercise).
+Dependent Variable: Life satisfaction score (a self-reported score, likely on a scale from 1 to 10 or another range).
+
+Planned Analysis:
+A correlation analysis to assess whether individuals who exercise more frequently report higher life satisfaction scores. This could include calculating the Pearson correlation coefficient or conducting a simple linear regression.
+
+Hypothesis: Regular physical activity is positively correlated with life satisfaction, meaning that individuals who engage more frequently in sports or physical activity tend to report higher life satisfaction.
